@@ -11,8 +11,10 @@
 		"lint:styles": "stylelint \"**/*.{less,css}\""
 	},
 	"devDependencies": {
+		"@eslint/compat": "^1.4.1",
 		"@eslint/eslintrc": "^3.3.1",
 		"@eslint/js": "^9.39.1",
+		"eslint": "^9.39.1",
 		"eslint-config-wikimedia": "^0.31.0",
 		"globals": "^16.5.0",
 		"grunt": "1.6.1",
