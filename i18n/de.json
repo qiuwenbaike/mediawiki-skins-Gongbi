@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Tobi 406",
+			"WikiBayer",
+			"Brettchenweber",
+			"Vanyar"
+		]
+	},
+	"gongbi-desc": "Stellt eine zeitlose Benutzeroberfläche bereit",
+	"gongbi-anonymous": "Anonym",
+	"gongbi-loggedinas": "Angemeldet als '''$1'''",
+	"gongbi-notloggedin": "Nicht angemeldet",
+	"gongbi-userpage": "{{GENDER:$1|Benutzerseite}}",
+	"gongbi-talkpage": "{{GENDER:$1|Benutzerdiskussion}}",
+	"gongbi-pagelog": "Seitenlogbücher",
+	"gongbi-more": "Mehr",
+	"gongbi-sitetools": "Wikiwerkzeuge",
+	"gongbi-pageactions": "Seitenwerkzeuge",
+	"gongbi-userpagetools": "Benutzerseitenwerkzeuge",
+	"gongbi-action-addsection": "Neues Thema",
+	"gongbi-view-view": "Lesen",
+	"gongbi-pagemisc": "Mehr",
+	"gongbi-namespaces": "Namensräume",
+	"gongbi-pagetools": "Seitenaktionen",
+	"gongbi-languages": "Sprachen",
+	"gongbi-projects": "Weitere Projekte",
+	"gongbi.css": "/* CSS an dieser Stelle wird für Benutzer geladen, die die Benutzeroberfläche „Gongbi“ verwenden */",
+	"gongbi.js": "/* JavaScript an dieser Stelle wird für Benutzer geladen, die die Benutzeroberfläche „Gongbi“ verwenden */",
+	"gongbi-view-history": "Versionsgeschichte",
+	"gongbi-action-undelete": "{{PLURAL:$1|1 Version|$1 Versionen}} wiederherstellen"
+}

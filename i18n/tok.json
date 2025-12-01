@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ne"
+			"Ne",
+			"Juwan"
 		]
 	},
-	"timeless-userpage": "lipu jan",
-	"timeless-talkpage": "lipu toki jan",
-	"timeless-more": "ante",
-	"timeless-sitetools": "ilo",
-	"timeless-pageactions": "ilo lipu",
-	"timeless-userpagetools": "ilo pi lipu jan",
-	"timeless-view-view": "o lukin",
-	"timeless-pagemisc": "ante",
-	"timeless-languages": "toki",
-	"timeless-projects": "pali ante",
-	"timeless-view-history": "tenpo pini"
+	"gongbi-userpage": "lipu {{GENDER:$1|jan}}",
+	"gongbi-talkpage": "lipu toki {{GENDER:$1|jan}}",
+	"gongbi-more": "ante",
+	"gongbi-sitetools": "ilo",
+	"gongbi-pageactions": "ilo lipu",
+	"gongbi-userpagetools": "ilo pi lipu jan",
+	"gongbi-view-view": "o lukin",
+	"gongbi-pagemisc": "ante",
+	"gongbi-languages": "toki",
+	"gongbi-projects": "pali ante",
+	"gongbi-view-history": "tenpo pini"
 }
