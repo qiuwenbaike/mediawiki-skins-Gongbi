@@ -3,7 +3,7 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
-		"minify-svg": "svgo --config=.svgo.config.js --quiet --recursive --folder resources/images",
+		"minify-svg": "svgo --config=.svgo.config.cjs --quiet --recursive --folder resources/images",
 		"test": "grunt test",
 		"lint": "npm run lint:js && npm run lint:styles",
 		"lint:fix:js": "eslint . --fix",
