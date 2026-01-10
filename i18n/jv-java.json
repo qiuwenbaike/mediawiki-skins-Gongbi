@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin"
+		]
+	},
+	"gongbi-anonymous": "ꦲꦤꦺꦴꦤꦶꦩꦸꦱ꧀",
+	"gongbi-loggedinas": "​ꦩ꧀ꦊꦧꦸ​ꦭꦺꦴꦒ꧀ꦢꦢꦶ​'''$1'''",
+	"gongbi-notloggedin": "ꦢꦸꦫꦸꦁ​ꦩ꧀ꦊꦧꦸ​ꦭꦺꦴꦒ꧀",
+	"gongbi-userpage": "ꦏꦕ​{{GENDER:$1|ꦤꦫꦒꦸꦤ}}",
+	"gongbi-talkpage": "ꦉꦩ꧀ꦧꦸꦒ꧀ꦒꦤ꧀{{GENDER:$1|ꦤꦫꦒꦸꦤ}}",
+	"gongbi-pagelog": "ꦭꦺꦴꦒ꧀ꦏꦕ",
+	"gongbi-more": "ꦭꦶꦪꦤꦺ",
+	"gongbi-sitetools": "ꦥꦶꦫꦤ꧀ꦠꦶ​ꦮꦶꦏꦶ",
+	"gongbi-pageactions": "ꦥꦶꦫꦤ꧀ꦠꦶ​ꦏꦕ",
+	"gongbi-userpagetools": "ꦥꦶꦫꦤ꧀ꦠꦶ​ꦏꦕ​ꦤꦫꦒꦸꦤ",
+	"gongbi-action-addsection": "ꦠꦺꦴꦥꦶꦏ꧀ꦲꦚꦂ",
+	"gongbi-view-view": "ꦮꦕ",
+	"gongbi-pagemisc": "ꦭꦶꦪꦤꦺ",
+	"gongbi-namespaces": "ꦩꦤ꧀ꦝꦭ​ꦲꦫꦤ꧀",
+	"gongbi-pagetools": "ꦲꦏ꧀ꦱꦶ​ꦏꦕ",
+	"gongbi-languages": "ꦧꦱ",
+	"gongbi-projects": "ꦥꦿꦺꦴꦪꦺꦏ꧀ꦭꦶꦪ",
+	"gongbi-view-history": "ꦱꦗꦫꦃ",
+	"gongbi-action-undelete": "ꦮꦸꦫꦸꦁ​ꦲꦥꦸꦱ꧀{{PLURAL:$1|$1 ꦧꦼꦱꦸꦠ꧀ꦠꦤ꧀}}"
+}
