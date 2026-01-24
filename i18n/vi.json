@@ -11,7 +11,7 @@
 	},
 	"skinname-gongbi": "Gongbi",
 	"gongbi-desc": "A new skin for Qiuwen Baike based on Timeless skin",
-	"gongbi-anonymous": "Vô danh",
+	"gongbi-anonymous": "Chưa đăng nhập",
 	"gongbi-loggedinas": "Đã đăng nhập là '''$1'''",
 	"gongbi-notloggedin": "Chưa đăng nhập",
 	"gongbi-userpage": "{{GENDER:$1}}Trang cá nhân",
