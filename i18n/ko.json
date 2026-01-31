@@ -10,7 +10,7 @@
 			"Ykhwong",
 			"고솜",
 			"아라",
-			"Markingdots"
+			"Tensama0415"
 		]
 	},
 	"skinname-gongbi": "Gongbi",
@@ -19,7 +19,7 @@
 	"gongbi-loggedinas": "'''$1'''님으로 로그인됨",
 	"gongbi-notloggedin": "로그인하지 않음",
 	"gongbi-userpage": "{{GENDER:$1|사용자}} 문서",
-	"gongbi-talkpage": "{{GENDER:$1|사용자}}토론",
+	"gongbi-talkpage": "{{GENDER:$1|사용자}} 토론",
 	"gongbi-pagelog": "문서 기록",
 	"gongbi-more": "더 보기",
 	"gongbi-sitetools": "위키 도구",
