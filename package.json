@@ -24,6 +24,6 @@
 		"grunt-stylelint": "0.20.1",
 		"stylelint": "^16.26.1",
 		"stylelint-config-wikimedia": "^0.18.0",
-		"svgo": "4.0.0"
+		"svgo": "4.0.1"
 	}
 }
