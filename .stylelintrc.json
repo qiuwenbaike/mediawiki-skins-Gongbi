@@ -11,6 +11,12 @@
 		"no-descending-specificity": null,
 		"declaration-no-important": null,
 		"unit-disallowed-list": null,
-		"declaration-property-unit-disallowed-list": null
+		"declaration-property-unit-disallowed-list": null,
+		"declaration-property-value-keyword-no-deprecated": [
+			true,
+			{
+				"ignoreKeywords": ["break-word"]
+			}
+		]
 	}
 }

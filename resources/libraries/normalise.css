@@ -283,7 +283,7 @@ html input[ type='button' ], /* 1 */
 input[ type='reset' ],
 input[ type='submit' ] {
 	-webkit-appearance: button; /* 2 */
-	appearance: button;
+	appearance: auto;
 	cursor: pointer; /* 3 */
 }
 
