@@ -13,17 +13,17 @@
 	},
 	"devDependencies": {
 		"@eslint/compat": "^2.1.0",
-		"@eslint/eslintrc": "^3.3.5",
-		"@eslint/js": "^9.39.4",
-		"eslint": "^9.39.2",
-		"eslint-config-wikimedia": "^0.32.3",
-		"globals": "^17.6.0",
+		"@eslint/eslintrc": "^3.3.6",
+		"@eslint/js": "^9.39.5",
+		"eslint": "^9.39.5",
+		"eslint-config-wikimedia": "^0.32.4",
+		"globals": "^17.7.0",
 		"grunt": "1.6.2",
 		"grunt-banana-checker": "0.13.0",
 		"grunt-eslint": "^26.0.0",
 		"grunt-stylelint": "0.21.0",
-		"stylelint": "^17.13.0",
-		"stylelint-config-wikimedia": "^0.19.2",
+		"stylelint": "^17.14.1",
+		"stylelint-config-wikimedia": "^0.19.3",
 		"svgo": "4.0.1"
 	}
 }
