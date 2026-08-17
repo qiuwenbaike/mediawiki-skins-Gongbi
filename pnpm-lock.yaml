@@ -24,8 +24,8 @@ importers:
         specifier: ^0.32.4
         version: 0.32.4(eslint@9.39.5)(typescript@5.8.2)
       globals:
-        specifier: ^17.7.0
-        version: 17.7.0
+        specifier: ^17.11.0
+        version: 17.11.0
       grunt:
         specifier: 1.6.2
         version: 1.6.2
@@ -1055,20 +1055,12 @@ packages:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
     engines: {node: '>=18'}
 
-  globals@15.11.0:
-    resolution: {integrity: sha512-yeyNSjdbyVaWurlwCpcA6XNBrHTMIeDdj0/hnvX/OLJ9ekOXYbLsLinH/MucQyGvNnXhidTdNhTtJaffL2sMfw==}
+  globals@15.15.0:
+    resolution: {integrity: sha512-7ACyT3wmyp3I61S4fG682L0VA2RGD9otkqGJIwNUMF1SWUombIIk+af1unuDYgMm082aHYwD+mzJvv9Iu8dsgg==}
     engines: {node: '>=18'}
 
-  globals@15.7.0:
-    resolution: {integrity: sha512-ivatRXWwKC6ImcdKO7dOwXuXR5XFrdwo45qFwD7D0qOkEPzzJdLXC3BHceBdyrPOD3p1suPaWi4Y4NMm2D++AQ==}
-    engines: {node: '>=18'}
-
-  globals@15.9.0:
-    resolution: {integrity: sha512-SmSKyLLKFbSr6rptvP8izbyxJL4ILwqO9Jg23UA0sDlGlu58V59D1//I3vlc0KJphVdUR7vMjHIplYnzBxorQA==}
-    engines: {node: '>=18'}
-
-  globals@17.7.0:
-    resolution: {integrity: sha512-Czmyns5dUsq4seFBR/Kdydhmo8y9kC79hiSkPn0YcGtNnYWnrgt0vjrSjx9tspoDGWm2CMarffRuLjM4xUz8xg==}
+  globals@17.11.0:
+    resolution: {integrity: sha512-Z2I8hM+PbJDXQDq3Icgpzv+mPdwr68iZUU9d5WW4FuXfDUQfkZaZuvjMv42/5crNyw154+9+VWXbYrUgDXbxNw==}
     engines: {node: '>=18'}
 
   globby@16.2.2:
@@ -2702,7 +2694,7 @@ snapshots:
       browserslist: 4.28.6
       eslint: 9.39.5
       find-up: 5.0.0
-      globals: 15.7.0
+      globals: 15.15.0
       lodash.memoize: 4.1.2
       semver: 7.8.5
 
@@ -2775,7 +2767,7 @@ snapshots:
       eslint: 9.39.5
       eslint-plugin-es-x: 7.8.0(eslint@9.39.5)
       get-tsconfig: 4.14.0
-      globals: 15.11.0
+      globals: 15.15.0
       globrex: 0.1.2
       ignore: 5.3.2
       semver: 7.8.5
@@ -2806,7 +2798,7 @@ snapshots:
       core-js-compat: 3.49.0
       eslint: 9.39.5
       esquery: 1.7.0
-      globals: 15.9.0
+      globals: 15.15.0
       indent-string: 4.0.0
       is-builtin-module: 3.2.1
       jsesc: 3.1.0
@@ -3138,13 +3130,9 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.11.0: {}
+  globals@15.15.0: {}
 
-  globals@15.7.0: {}
-
-  globals@15.9.0: {}
-
-  globals@17.7.0: {}
+  globals@17.11.0: {}
 
   globby@16.2.2:
     dependencies:
