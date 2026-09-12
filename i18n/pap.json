@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kallmemel"
+		]
+	},
+	"gongbi-anonymous": "Anónimo",
+	"gongbi-loggedinas": "Outentiká komo '''$1'''",
+	"gongbi-notloggedin": "No ta outentiká",
+	"gongbi-userpage": "Página di {{GENDER:$1|usadó}}",
+	"gongbi-talkpage": "Diskushon {{GENDER:$1|usadó}}",
+	"gongbi-pagelog": "Registro di página",
+	"gongbi-more": "Mas",
+	"gongbi-sitetools": "Hèrmènt di wiki",
+	"gongbi-pageactions": "Hèrmènt di página",
+	"gongbi-userpagetools": "Hèrmènt di página di usadó",
+	"gongbi-action-addsection": "Tópiko nobo",
+	"gongbi-view-view": "Lesa",
+	"gongbi-pagemisc": "Mas",
+	"gongbi-namespaces": "Espasio di nòmber",
+	"gongbi-pagetools": "Akshon di página",
+	"gongbi-languages": "Idioma",
+	"gongbi-projects": "Otro proyektonan",
+	"gongbi-view-history": "Historia",
+	"gongbi-action-undelete": "Restourá {{PLURAL:$1|un adaptashon|$1 adaptashon}}"
+}

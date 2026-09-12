@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda"
+		]
+	},
+	"gongbi-anonymous": "مجهول",
+	"gongbi-loggedinas": "سجّل دخولك ب سمّيت` '''$1'''",
+	"gongbi-notloggedin": "ماشي مسجّل الدخول",
+	"gongbi-userpage": "صفحة {{GENDER:$1|المستخدم|المستخدمة}}",
+	"gongbi-talkpage": "صفحة {{GENDER:$1|المستخدم|المستخدمة}}",
+	"gongbi-pagelog": "سجلات الصفحة",
+	"gongbi-more": "زيادة",
+	"gongbi-sitetools": "ادوات الويكي",
+	"gongbi-pageactions": "أدوات الصفحه",
+	"gongbi-userpagetools": "ادوات صفحة المستخدم",
+	"gongbi-action-addsection": "موضوع جديد",
+	"gongbi-view-view": "اقرى",
+	"gongbi-pagemisc": "زيادة",
+	"gongbi-namespaces": "نطاقات الأسماء",
+	"gongbi-pagetools": "أكثر خيارات",
+	"gongbi-languages": "لوغات",
+	"gongbi-projects": "في مشاريع وحد اخرى",
+	"gongbi-view-history": "تاريخ",
+	"gongbi-action-undelete": "رجّع {{PLURAL:$1||تعديل واحد|$1 تعديل}}"
+}

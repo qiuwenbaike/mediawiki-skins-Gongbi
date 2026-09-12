@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"gongbi-anonymous": "Aan la aqoon",
+	"gongbi-loggedinas": "Soo galay sida '''$1'''",
+	"gongbi-notloggedin": "Lama soo gelin",
+	"gongbi-userpage": "Bogga {{GENDER:$1|isticmaalaha}}",
+	"gongbi-talkpage": "Wadahadalka {{GENDER:$1|isticmaalaha}}",
+	"gongbi-pagelog": "Diiwaanka bogga",
+	"gongbi-more": "Dheeraad",
+	"gongbi-sitetools": "Qalabka wiki",
+	"gongbi-pageactions": "Qalabka bogga",
+	"gongbi-userpagetools": "Qalabka bogga isticmaalaha",
+	"gongbi-action-addsection": "Mowduuc cusub",
+	"gongbi-view-view": "Akhri",
+	"gongbi-pagemisc": "Dheeraad",
+	"gongbi-namespaces": "Meel magacyo",
+	"gongbi-pagetools": "Ficillada bogga",
+	"gongbi-languages": "Luuqadaha",
+	"gongbi-projects": "Mashruucyo kale",
+	"gongbi-view-history": "Taariikh",
+	"gongbi-action-undelete": "Soo celi {{PLURAL:$1|hal wax ka beddel|$1 wax ka beddello}}"
+}
