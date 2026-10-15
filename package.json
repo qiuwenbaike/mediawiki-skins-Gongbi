@@ -12,18 +12,18 @@
 		"lint:styles": "stylelint \"**/*.{less,css}\""
 	},
 	"devDependencies": {
-		"@eslint/compat": "^2.1.0",
-		"@eslint/eslintrc": "^3.3.6",
+		"@eslint/compat": "^2.1.1",
+		"@eslint/eslintrc": "^3.3.7",
 		"@eslint/js": "^9.39.5",
 		"eslint": "^9.39.5",
-		"eslint-config-wikimedia": "^0.32.4",
-		"globals": "^17.7.0",
+		"eslint-config-wikimedia": "^0.32.6",
+		"globals": "^17.13.0",
 		"grunt": "1.6.3",
 		"grunt-banana-checker": "0.13.0",
 		"grunt-eslint": "^26.0.0",
 		"grunt-stylelint": "0.21.0",
-		"stylelint": "^17.14.1",
-		"stylelint-config-wikimedia": "^0.19.3",
+		"stylelint": "^17.16.0",
+		"stylelint-config-wikimedia": "^0.19.4",
 		"svgo": "4.0.2"
 	}
 }
