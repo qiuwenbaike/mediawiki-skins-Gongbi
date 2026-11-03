@@ -42,8 +42,8 @@ importers:
         specifier: ^17.16.0
         version: 17.16.0(supports-color@10.2.2)(typescript@5.9.3)
       stylelint-config-wikimedia:
-        specifier: ^0.19.4
-        version: 0.19.4(postcss-less@6.0.0(postcss@8.5.31))(supports-color@10.2.2)(typescript@5.9.3)
+        specifier: ^0.20.0
+        version: 0.20.0(postcss-less@6.0.0(postcss@8.5.31))(supports-color@10.2.2)(typescript@5.9.3)
       svgo:
         specifier: 4.1.0
         version: 4.1.0
@@ -1748,8 +1748,8 @@ packages:
     peerDependencies:
       stylelint: ^17.0.0
 
-  stylelint-config-wikimedia@0.19.4:
-    resolution: {integrity: sha512-dnY3df8TxvmlQRM/7m5vML8ePWXMqp3+qaUKSLwhf+Ju9gB/QApbrIhm6SxGebco4dFKi2nSjGwLxsKTzjvIxw==}
+  stylelint-config-wikimedia@0.20.0:
+    resolution: {integrity: sha512-0l3cnal6rLtAbiVsSYoKjCb/62GW8gSjQuQ0lzTzT9PUSrJkeGmbSKE5vSHeaMhpNPRJtsNzBx98JUzARnLdPg==}
     engines: {node: '>=20.19.0'}
     peerDependencies:
       postcss-less: ^6.0.0
@@ -3711,7 +3711,7 @@ snapshots:
     dependencies:
       stylelint: 17.6.0(supports-color@10.2.2)(typescript@5.9.3)
 
-  stylelint-config-wikimedia@0.19.4(postcss-less@6.0.0(postcss@8.5.31))(supports-color@10.2.2)(typescript@5.9.3):
+  stylelint-config-wikimedia@0.20.0(postcss-less@6.0.0(postcss@8.5.31))(supports-color@10.2.2)(typescript@5.9.3):
     dependencies:
       '@stylistic/stylelint-config': 5.0.0(stylelint@17.6.0(supports-color@10.2.2)(typescript@5.9.3))
       '@stylistic/stylelint-plugin': 5.1.0(stylelint@17.6.0(supports-color@10.2.2)(typescript@5.9.3))
