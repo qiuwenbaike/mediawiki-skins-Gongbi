@@ -21,8 +21,8 @@ importers:
         specifier: ^9.39.5
         version: 9.39.5(supports-color@10.2.2)
       eslint-config-wikimedia:
-        specifier: ^0.32.6
-        version: 0.32.6(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
+        specifier: ^0.33.1
+        version: 0.33.1(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
       globals:
         specifier: ^17.13.0
         version: 17.13.0
@@ -681,11 +681,11 @@ packages:
     peerDependencies:
       eslint: '>=6.0.0'
 
-  eslint-config-wikimedia@0.32.6:
-    resolution: {integrity: sha512-e3vVWPU9YYj6i7fTGq8UMgQDWiux4EsFb2LqVLXBal0svZyBvxCMnKlarN1SNyJ6xI1f58voCEf5OV9SOC1SKw==}
+  eslint-config-wikimedia@0.33.1:
+    resolution: {integrity: sha512-ISzVroQxM8OOtOEBueKfQPT0Uu3RETRu8TqAWsWK79UibUd8wFOKJxnOg3n2nnHkV4mNozszNPcyHcT+kLmHkA==}
     engines: {node: '>=20 <27'}
     peerDependencies:
-      eslint: ^8.57.0
+      eslint: ^8.57.0 || ^9.0.0
 
   eslint-plugin-compat@6.2.1:
     resolution: {integrity: sha512-gLKqUH+lQcCL+HzsROUjBDvakc5Zaga51Y4ZAkPCXc41pzKBfyluqTr2j8zOx8QQQb7zyglu1LVoL5aSNWf2SQ==}
@@ -732,8 +732,8 @@ packages:
     peerDependencies:
       eslint: '>= 7'
 
-  eslint-plugin-mediawiki@0.8.3:
-    resolution: {integrity: sha512-RQKZd40C1taMDk5N9+aFLEBGBB95RNG7Gc54EsJ8pHsJu8//nIdpxNFWPtQz6RNxz6pZUXBnMCxzkMOLM3Mm1w==}
+  eslint-plugin-mediawiki@0.8.4:
+    resolution: {integrity: sha512-7k/wPIoaa3QOQjAWtCBW/QjygEIuh0wt4rx2DWzGTTs9Jz5IKswQsGqhtnRn+ELl7D6XvYhtounK4KQo+Ugxew==}
     peerDependencies:
       eslint: '>=5.0.0'
 
@@ -749,8 +749,8 @@ packages:
     peerDependencies:
       eslint: '>=8.23.0'
 
-  eslint-plugin-no-jquery@6.0.1:
-    resolution: {integrity: sha512-eKsDU6QQdMLE5ysuBF8hv3RTzbRUXUP74bnaqQd0n+a3MxV7jDXgP3BTkofbKJFsLdSCBT3hEykOkGnRXeKADg==}
+  eslint-plugin-no-jquery@6.0.2:
+    resolution: {integrity: sha512-ZBSrZiifqTfM11oUOzs7HpmkEaVbSdHvK/5zLaOcydtbHTqDzHKqeIEjndx2Sd43bx61f3yCzLk5aQufw4vC5A==}
     peerDependencies:
       eslint: '>=8.0.0'
       oxlint: '>=1.52.0'
@@ -2586,8 +2586,9 @@ snapshots:
       eslint: 9.39.5(supports-color@10.2.2)
       semver: 7.8.5
 
-  eslint-config-wikimedia@0.32.6(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3):
+  eslint-config-wikimedia@0.33.1(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3):
     dependencies:
+      '@eslint/eslintrc': 3.3.7(supports-color@10.2.2)
       '@stylistic/eslint-plugin': 3.1.0(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
       '@typescript-eslint/eslint-plugin': 8.54.0(@typescript-eslint/parser@8.54.0(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3))(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
       '@typescript-eslint/parser': 8.54.0(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
@@ -2598,10 +2599,10 @@ snapshots:
       eslint-plugin-jest: 29.17.0(@typescript-eslint/eslint-plugin@8.54.0(@typescript-eslint/parser@8.54.0(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3))(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3))(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)(typescript@5.9.3)
       eslint-plugin-jsdoc: 62.9.0(eslint@9.39.5(supports-color@10.2.2))(supports-color@10.2.2)
       eslint-plugin-json-es: 1.6.0(eslint@9.39.5(supports-color@10.2.2))
-      eslint-plugin-mediawiki: 0.8.3(eslint@9.39.5(supports-color@10.2.2))
+      eslint-plugin-mediawiki: 0.8.4(eslint@9.39.5(supports-color@10.2.2))
       eslint-plugin-mocha: 10.5.0(eslint@9.39.5(supports-color@10.2.2))
       eslint-plugin-n: 17.24.0(eslint@9.39.5(supports-color@10.2.2))(typescript@5.9.3)
-      eslint-plugin-no-jquery: 6.0.1(eslint@9.39.5(supports-color@10.2.2))
+      eslint-plugin-no-jquery: 6.0.2(eslint@9.39.5(supports-color@10.2.2))
       eslint-plugin-qunit: 8.2.6(eslint@9.39.5(supports-color@10.2.2))
       eslint-plugin-security: 4.2.0
       eslint-plugin-unicorn: 56.0.1(eslint@9.39.5(supports-color@10.2.2))
@@ -2675,7 +2676,7 @@ snapshots:
       eslint-visitor-keys: 3.4.3
       espree: 9.6.1
 
-  eslint-plugin-mediawiki@0.8.3(eslint@9.39.5(supports-color@10.2.2)):
+  eslint-plugin-mediawiki@0.8.4(eslint@9.39.5(supports-color@10.2.2)):
     dependencies:
       eslint: 9.39.5(supports-color@10.2.2)
       upath: 2.0.1
@@ -2702,7 +2703,7 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  eslint-plugin-no-jquery@6.0.1(eslint@9.39.5(supports-color@10.2.2)):
+  eslint-plugin-no-jquery@6.0.2(eslint@9.39.5(supports-color@10.2.2)):
     optionalDependencies:
       eslint: 9.39.5(supports-color@10.2.2)
 
