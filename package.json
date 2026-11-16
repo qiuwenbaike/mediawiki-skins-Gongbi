@@ -16,7 +16,7 @@
 		"@eslint/eslintrc": "^3.3.7",
 		"@eslint/js": "^9.39.5",
 		"eslint": "^9.39.5",
-		"eslint-config-wikimedia": "^0.32.6",
+		"eslint-config-wikimedia": "^0.33.1",
 		"globals": "^17.13.0",
 		"grunt": "1.6.3",
 		"grunt-banana-checker": "0.13.0",
